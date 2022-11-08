@@ -82,8 +82,8 @@ class VoiceLineDataset(Dataset):
 
     
 if __name__ == "__main__":
-    ANNOTATIONS_FILE = "/Users/jarrett/Desktop/Senior Design/Speech classification /Dataset/Metadata/annotations.csv"
-    AUDIO_DIR = "/Users/jarrett/Desktop/Senior Design/Speech classification /Dataset/audio"
+    ANNOTATIONS_FILE = ""
+    AUDIO_DIR = ""
     SAMPLE_RATE = 16000
     NUM_SAMPLES = 16000
     device = "cpu"
