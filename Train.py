@@ -10,8 +10,8 @@ BATCH_SIZE = 128
 EPOCHS = 10
 LEARNING_RATE = 0.001
 
-ANNOTATIONS_FILE = "/Users/jarrett/Desktop/Senior Design/Speech classification /Dataset/Metadata/annotations.csv"
-AUDIO_DIR = "/Users/jarrett/Desktop/Senior Design/Speech classification /Dataset/audio"
+ANNOTATIONS_FILE = ""
+AUDIO_DIR = ""
 SAMPLE_RATE = 22050
 NUM_SAMPLES = 22050
 
