@@ -6,7 +6,7 @@ from scipy.io import wavfile
 
 # Read the wav file (mono)
 
-samplingFrequency, signalData = wavfile.read('/Users/jarrett/Desktop/Senior Design/Speech classification /Dataset/audio/Jarrett-Audio-0036.wav')
+samplingFrequency, signalData = wavfile.read('')
 
 # Plot the signal read from wav file
 
